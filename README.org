@@ -3,11 +3,6 @@
 #+PROPERTY: header-args :tangle xmobarrc
 #+AUTO_TANGLE: t
 
-* TABLE OF CONTENTS :toc:
-- [[#about][ABOUT]]
-  - [[#dependencies][DEPENDENCIES]]
-- [[#config][CONFIG]]
-
 * ABOUT
 This is my current config for Xmobar version 0.40-3. I usit with Xmonad version 0.17.0-5.
 NOTE: This is an ongoing config and it will change until I am satisfied with it.
